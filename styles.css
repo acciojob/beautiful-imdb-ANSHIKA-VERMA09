@@ -1,2 +1,15 @@
-
-/* Your CSS Code here. */
+p{
+	text-align:center;
+	position:relative;
+	top:2px;
+	width:80%;
+	font-style:italic;
+	font-size:20px;
+}
+img{
+	height:500px;
+	width:600px;
+	opacity:0.9;
+	margin:auto;
+	
+}
